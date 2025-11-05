@@ -1,9 +1,8 @@
 {
-  "name": "your-project",
-  "version": "1.0.0",
+  "name": "playbox-timer",
   "type": "module",
   "scripts": {
-    "dev": "vite", 
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -12,6 +11,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
